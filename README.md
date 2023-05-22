@@ -2,6 +2,9 @@
 
 This repository contains code for performing sentiment analysis using various models. The sentiment analysis models included in this project are:
 
+[Demo](https://huggingface.co/spaces/ShadowDominator/sentiment-analysis)
+
+
 - [Emotion Analysis](https://github.com/ShadowDominator/emotion-classification)
 - [Review Feedback Analysis](https://github.com/ShadowDominator/feedback-sentiment-analysis)
 - [Sentence Analysis](https://github.com/ShadowDominator/sentence-sentiment-analysis)
